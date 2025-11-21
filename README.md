@@ -2,6 +2,8 @@
 
 A bridge server that connects AI assistants to Roblox Studio through the Model Context Protocol (MCP). This allows AI tools like Claude or other LLM-powered coding assistants to read and modify your Roblox game data in real-time.
 
+Run the python file and install the plugin here: https://create.roblox.com/store/asset/136954959051709/RobloxBridgePlugin
+
 ## What Does This Do?
 
 This project creates a two-way communication channel between your AI assistant and Roblox Studio. Once connected, your AI can:
